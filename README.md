@@ -1,0 +1,5 @@
+Clone
+
+then
+
+`npm init`
