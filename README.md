@@ -1,5 +1,7 @@
+## This is gulp boilerplate
+
 Clone
 
 then
 
-`npm init`
+`npm install`
